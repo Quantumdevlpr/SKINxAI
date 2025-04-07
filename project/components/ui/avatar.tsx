@@ -31,7 +31,7 @@ const AvatarImage = React.forwardRef<
   />
 ));
 AvatarImage.displayName = AvatarPrimitive.Image.displayName;
-// Placeholder for potential login-related UI components or logicK
+// Placeholder for potential login-related UI components or logicKgit
 // For example, you could add a LoginButton component here:
 
 const LoginButton = ({ onClick }: { onClick: () => void }) => (
